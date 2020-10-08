@@ -1,0 +1,6 @@
+Django
+djangorestframework
+redis
+pymongo
+django-cors-headers
+pandas
